@@ -1,7 +1,11 @@
 {
   "extends": "../../tsconfig.shared.json",
   "compilerOptions": {
-    "outDir": "dist/js"
+    "allowJs": true
   },
-  "files": ["index.ts", "lib/geojson.ts"]
+  "files": [
+    "index.js",
+    "index.ts",
+    "lib/"
+  ]
 }

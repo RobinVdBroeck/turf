@@ -1,12 +1,11 @@
 {
   "extends": "../../tsconfig.shared.json",
   "compilerOptions": {
-    "outDir": "dist/js"
+    "allowJs": true
   },
   "files": [
+    "index.js",
     "index.ts",
-    "lib/turf-dissolve.ts",
-    "lib/turf-line-dissolve.ts",
-    "lib/turf-polygon-dissolve.ts"
+    "lib/"
   ]
 }
