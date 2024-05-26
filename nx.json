@@ -1,7 +1,7 @@
 {
   "namedInputs": {
     "default": [
-      "{workspaceRoot}/yarn.lock",
+      "{workspaceRoot}/package-lock.json",
       "{workspaceRoot}/tsconfig.shared.json",
       "{projectRoot}/package.json",
       "{projectRoot}/tsconfig.json"
