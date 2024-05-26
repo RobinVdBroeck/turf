@@ -51,6 +51,7 @@ module.exports = {
         order: [
           "name",
           "version",
+          "packageManager",
           "private",
           "description",
           "workspaces",
