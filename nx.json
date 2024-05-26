@@ -3,6 +3,7 @@
     "default": [
       "{workspaceRoot}/package-lock.json",
       "{workspaceRoot}/tsconfig.shared.json",
+      "{workspaceRoot}/tsup.config.ts",
       "{projectRoot}/package.json",
       "{projectRoot}/tsconfig.json"
     ]
@@ -17,7 +18,8 @@
         "{projectRoot}/index.{js,ts}",
         "{projectRoot}/index.d.ts",
         "{projectRoot}/lib/**",
-        "{projectRoot}/rollup.config.js"
+        "{projectRoot}/rollup.config.js",
+        "{projectRoot}/babel.config.json"
       ],
       "outputs": [
         "{projectRoot}/dist"
