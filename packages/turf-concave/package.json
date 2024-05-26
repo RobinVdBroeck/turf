@@ -1,6 +1,6 @@
 {
   "name": "@turf/concave",
-  "version": "6.6.0-alpha.0",
+  "version": "6.6.0-alpha.1",
   "description": "turf concave module",
   "author": "Turf Authors",
   "contributors": [
@@ -79,12 +79,12 @@
     "write-json-file": "*"
   },
   "dependencies": {
-    "@turf/clone": "^6.6.0-alpha.0",
-    "@turf/distance": "^6.6.0-alpha.0",
-    "@turf/helpers": "^6.6.0-alpha.0",
-    "@turf/invariant": "^6.6.0-alpha.0",
-    "@turf/meta": "^6.6.0-alpha.0",
-    "@turf/tin": "^6.6.0-alpha.0",
+    "@turf/clone": "^6.6.0-alpha.1",
+    "@turf/distance": "^6.6.0-alpha.1",
+    "@turf/helpers": "^6.6.0-alpha.1",
+    "@turf/invariant": "^6.6.0-alpha.1",
+    "@turf/meta": "^6.6.0-alpha.1",
+    "@turf/tin": "^6.6.0-alpha.1",
     "topojson-client": "3.x",
     "topojson-server": "3.x"
   }

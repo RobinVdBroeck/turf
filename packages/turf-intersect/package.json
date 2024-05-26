@@ -1,6 +1,6 @@
 {
   "name": "@turf/intersect",
-  "version": "6.6.0-alpha.0",
+  "version": "6.6.0-alpha.1",
   "description": "turf intersect module",
   "author": "Turf Authors",
   "license": "MIT",
@@ -67,8 +67,8 @@
     "write-json-file": "*"
   },
   "dependencies": {
-    "@turf/helpers": "^6.6.0-alpha.0",
-    "@turf/invariant": "^6.6.0-alpha.0",
+    "@turf/helpers": "^6.6.0-alpha.1",
+    "@turf/invariant": "^6.6.0-alpha.1",
     "polygon-clipping": "^0.15.3"
   }
 }
