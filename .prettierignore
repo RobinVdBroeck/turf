@@ -3,10 +3,16 @@ dist
 node_modules
 tsconfig.json
 lerna.json
+nx.json
+.nx
 
 # slow
 packages/turf-directional-mean/test/in/bus_route_gps.json
 packages/turf-directional-mean/test/in/bus_route_utm.json
 
+
 # is actually output
 packages/turf/turf.min.js
+packages/turf/test.example.js
+
+.nx/cache
